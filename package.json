@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-monorepo-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "is-object",
+    "app"
+  ]
+}
